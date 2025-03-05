@@ -14,8 +14,8 @@ Linkedin/
 │   │   ├── data.json          # Input dataset (employee data)
 │   ├── utils/
 │   │   ├── employees_knowing_language_per_company.py  # Counts employees knowing each language per company
-│   │   ├── filter.py           # Filters employees based on company count
-│   │   ├── identification.py   # Extracts unique companies & languages
+│   │   ├── filter.py           # Filters employees who worked at 3+ companies
+│   │   ├── identification.py   # Identifies employees who know a specific language
 │   │   ├── load_data.py        # Loads JSON data
 │   │   ├── probability.py      # Calculates P(language | company)
 │   │   ├── save_data.py        # Saves computed data
