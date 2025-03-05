@@ -33,8 +33,8 @@ Linkedin/
 1. Install Python (if not installed).
 2. Clone the repository:
    ```sh
-   git clone <repository-url>
-   cd Linkedin/src/
+   git clone https://github.com/MuathOthman/EmployeeProgrammingLanguageProbabilityCalculator.git
+   cd EmployeeProgrammingLanguageProbabilityCalculator/src/
    ```
 3. Run the program:
    ```sh
